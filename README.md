@@ -53,6 +53,11 @@ Screenshots of the application are provided below.
 
 ### Point of Sale
 
+The Point of Sale interface supports day-to-day cashier operations, including product search and barcode entry, category filtering, item selection, quantity management, line totals, and transaction review before payment.
+
+The interface is designed to give the cashier quick access to products while keeping the active sale visible throughout the transaction.
+
+
 <img width="996" height="816" alt="point-of-sale" src="https://github.com/user-attachments/assets/656a8049-bdd0-4c9b-a695-b5fb1e020450" />
 
 
