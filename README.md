@@ -58,7 +58,8 @@ Screenshots of the application are provided below.
 
 ### Product Management
 
-Screenshot coming soon.
+<img width="1009" height="871" alt="product-management" src="https://github.com/user-attachments/assets/64c71566-879e-4ed1-924f-028ef781baac" />
+
 
 ### Inventory Management
 
