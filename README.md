@@ -63,15 +63,27 @@ The interface is designed to give the cashier quick access to products while kee
 
 ### Product Management
 
+The Product Management module provides a centralized interface for maintaining the store's product catalog. It supports creating and updating product records, managing prices, stock-related information, product categories, and other details required for point-of-sale and inventory operations.
+
+The module is designed to keep product information consistent across the system so that cashiering, inventory tracking, purchasing, and reporting all use the same product data.
+
 <img width="1001" height="872" alt="product-management" src="https://github.com/user-attachments/assets/f5397fd6-46db-467e-b86d-1a768a3c0e01" />
 
 
 ### Inventory Management
 
+The Stock Management module provides visibility into current inventory levels and supports day-to-day stock control across the store. It allows users to monitor product availability, review stock quantities, and identify items that may require replenishment or further action.
+
+The module is integrated with the wider POS and inventory workflow so that stock information remains aligned with sales, purchasing, receiving, and inventory adjustment activities.
+
 <img width="1008" height="873" alt="stock-management" src="https://github.com/user-attachments/assets/38c7a482-1d0e-4c6d-a0db-5675705246e9" />
 
 
 ### Purchasing
+
+The Purchasing module supports the procurement workflow by allowing users to create and manage purchase orders for suppliers, track ordered items and quantities, and maintain visibility into purchasing activity.
+
+It helps connect supplier ordering with inventory operations so that incoming stock can be received, recorded, and reflected in the system accurately.
 
 <img width="1005" height="694" alt="purchase-order" src="https://github.com/user-attachments/assets/73b29c40-bed5-47cf-869f-bba3e0ecaf9d" />
 
