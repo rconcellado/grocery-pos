@@ -68,7 +68,8 @@ Screenshots of the application are provided below.
 
 ### Purchasing
 
-Screenshot coming soon.
+<img width="1005" height="694" alt="purchase-order" src="https://github.com/user-attachments/assets/73b29c40-bed5-47cf-869f-bba3e0ecaf9d" />
+
 
 ### Reporting
 
