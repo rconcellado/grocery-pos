@@ -58,7 +58,7 @@ Screenshots of the application are provided below.
 
 ### Product Management
 
-<img width="1009" height="871" alt="product-management" src="https://github.com/user-attachments/assets/64c71566-879e-4ed1-924f-028ef781baac" />
+<img width="1001" height="872" alt="product-management" src="https://github.com/user-attachments/assets/f5397fd6-46db-467e-b86d-1a768a3c0e01" />
 
 
 ### Inventory Management
