@@ -63,7 +63,8 @@ Screenshots of the application are provided below.
 
 ### Inventory Management
 
-Screenshot coming soon.
+<img width="1008" height="873" alt="stock-management" src="https://github.com/user-attachments/assets/38c7a482-1d0e-4c6d-a0db-5675705246e9" />
+
 
 ### Purchasing
 
